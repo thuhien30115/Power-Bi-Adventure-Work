@@ -12,6 +12,8 @@ The model has seven tables:
 |**Sales Territory**|Sales territories are organized into groups (North America, Europe, and Pacific), countries, and regions. Only the United States sells products at the region level.|
 
 The model doesn't contain any DAX calculations.
+## INSIGHT
+<img src="C:\Users\Admin\Documents\GitHub\ADVENTURE WORKS.pdf"
 
 									
 									

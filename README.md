@@ -24,7 +24,8 @@ TRANG 1: OVERVIEW SALES DASHBOARD
 - Có những **điểm bất thường về dữ liệu trong tháng 6 năm 2014** ( **Doanh thu, số lượng, lợi nhuận giảm 1 cách đột ngột** ( mặc dù dữ liệu được ghi chép đến ngày 27/06/2014? . **Đặc biệt không có 1 chiếc xe đạp nào được bán ra**.  > nguyên nhân? cách khắc phục
 - **TRANG 2**: dễ dàng nhận thấy đại đa số các đơn hàng đều được mua online. hình thức mua online mang lại doanh thu và lợi nhuận cao hơn ( xem hình 2)
 - Riêng đối với **category bike mua ofline doanh thu đem về 66tr đô nhưng bị lỗ 3tr đô** - Ngược lại  **mua online** tuy chỉ có mức **doanh thu là 22tr đô nhưng lợi nhuận lại được 11tr đô ( chiếm > 50% lọi nhuận/doanh thu)** > triển khai các chương trình quảng cáo, khuyến mãi >> khiến các khách hàng mua online đối với dòng sản phẩm này ( filter category: bike để xem kết quả) 
- 
+ ## Dashboard
+ < img src="https://drive.google.com/file/d/1Qv75SIPtxQRtSCBTtNcfcjo9-Exp_mXM/view?usp=drive_link">
 
 
 

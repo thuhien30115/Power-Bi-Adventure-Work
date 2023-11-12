@@ -13,7 +13,7 @@ The model has seven tables:
 
 The model doesn't contain any DAX calculations.
 ## INSIGHT
-<img src="C:\Users\Admin\Documents\GitHub\ADVENTURE WORKS.pdf"
+<img src="C:\Users\Admin\Documents\GitHub\ADVENTURE WORKS.pdf">
 
 									
 									

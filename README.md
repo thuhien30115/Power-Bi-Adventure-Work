@@ -1,7 +1,7 @@
 #  adventure work
 
  ## Dashboard
- < img src="https://drive.google.com/file/d/1Qv75SIPtxQRtSCBTtNcfcjo9-Exp_mXM/view?usp=drive_link">
+ < img src="https://drive.google.com/file/d/1zM62sEMMiHBRZWSUQsq71Jd0v0AD-zD-/view?usp=sharing">
  ## Insight
 **INSIGHT AND RECOMENDATION**
 TRANG 1: OVERVIEW SALES DASHBOARD
